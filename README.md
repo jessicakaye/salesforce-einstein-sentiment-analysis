@@ -13,6 +13,8 @@
 ![custom_settings_screenshot](https://raw.githubusercontent.com/last-khajiit/salesforce-einstein-sentiment-analysis/master/img/custom%20settings.png)
 
 5. Create classes in Salesforce Developer.
+  
+  JWT & JWT Bearer classes obtained originally from https://github.com/salesforceidentity/jwt.
 
 6. Find text to analyze.
 
