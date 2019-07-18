@@ -1,14 +1,19 @@
-Steps for using
-Sign up for an Einstein Platform Services Account. Follow this link to know more details – https://metamind.readme.io/docs/what-you-need-to-call-api#section-get-an-einstein-platform-services-account
+# Salesforce Einstein Sentiment Analysis
 
-Upload the Key obtained in step 1 into Salesforce Content. Follow this link to know more details – https://metamind.readme.io/docs/upload-your-key
+## Steps for Implementing Einstein API in Salesforce
 
-Deploy Demo stuff to Salesforce (using bellow button or manually)
+1. Sign up for an [Einstein Platform Services Account.](https://metamind.readme.io/docs/what-you-need-to-call-api#section-get-an-einstein-platform-services-account)
 
-Deploy to Salesforce
+2. [Upload the Key](https://metamind.readme.io/docs/upload-your-key) obtained in step 1 into Salesforce Content.
 
-Create Remote Site Setting for Einstein APIs (read more here)
+3. Create Remote Site Setting for Einstein APIs (read more [here](https://metamind.readme.io/docs/apex-qs-create-remote-site))
 
-Populate Custom Settings
+4. Populate Custom Settings
 
-custom_settings_screenshot
+![custom_settings_screenshot](https://raw.githubusercontent.com/last-khajiit/salesforce-einstein-sentiment-analysis/master/img/custom%20settings.png)
+
+5. Create classes in Salesforce Developer.
+
+6. Find text to analyze.
+
+6. Take response from Eistein API and use somewhere.
