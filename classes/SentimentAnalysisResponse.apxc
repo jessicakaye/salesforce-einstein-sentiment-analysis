@@ -8,6 +8,7 @@
  **/
 
 
+
 global class SentimentAnalysisResponse {
     webservice List<Probabilities> probabilities { get; set; } 
     
