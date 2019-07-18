@@ -14,7 +14,7 @@
 
 5. Create classes in Salesforce Developer.
   
-    * JWT & JWT Bearer classes obtained originally from https://github.com/salesforceidentity/jwt.
+    * JWT & JWTBearerFlow classes obtained originally from https://github.com/salesforceidentity/jwt.
 
 6. Find text to analyze.
 
