@@ -14,8 +14,8 @@
 
 5. Create classes in Salesforce Developer.
   
-... * JWT & JWT Bearer classes obtained originally from https://github.com/salesforceidentity/jwt.
+⋅⋅⋅ *JWT & JWT Bearer classes obtained originally from https://github.com/salesforceidentity/jwt.
 
 6. Find text to analyze.
 
-6. Take response from Eistein API and use somewhere.
+7. Take response from Eistein API and use somewhere.
