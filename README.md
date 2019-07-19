@@ -23,6 +23,6 @@
 
 ## Adding the Trigger and SentimentAnalysis Class
 
-   * The SentimentAnalysis class contains a future method that updates a given list of Campaign Members with the appropraiate 
+   * The SentimentAnalysis class contains a future method that updates a given list of Campaign Members with the appropriate 
    Sentiment Analysis.
    * The GetSentimentAnalysis trigger fires the SentimentAnalysis method that updates the Campaign Members.
